@@ -2,10 +2,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg blur border-radius-sm top-0 z-index-3 shadow position-sticky py-3 start-0 end-0">
       <div className="container px-1">
-        <a
-          className="navbar-brand font-weight-bolder ms-lg-0 "
-          href="/ivers-shop/"
-        >
+        <a className="navbar-brand font-weight-bolder ms-lg-0 " href="/">
           Ivers Shop
         </a>
         <button
@@ -29,7 +26,7 @@ const Navbar = () => {
               <a
                 className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 "
                 aria-current="page"
-                href="/ivers-shop/landing/"
+                href="/landing/"
               >
                 Landing
               </a>
@@ -38,7 +35,7 @@ const Navbar = () => {
               <a
                 className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 "
                 aria-current="page"
-                href="/ivers-shop/product/"
+                href="/product/"
               >
                 Product
               </a>
@@ -47,7 +44,7 @@ const Navbar = () => {
               <a
                 className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 "
                 aria-current="page"
-                href="/ivers-shop/shopping-cart/"
+                href="/shopping-cart/"
               >
                 Shopping Cart
               </a>
