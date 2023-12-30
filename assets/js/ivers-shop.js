@@ -3,7 +3,7 @@
 // =========================================================
 //
 // * Product Page: https://www.creative-tim.com/astro
-// * Copyright 2023 Creative Tim (https://www.creative-tim.com)
+// * Copyright 2023 Ivers Shop (https://www.creative-tim.com)
 //
 // Coded by www.creative-tim.com
 //

@@ -13,7 +13,7 @@ export default function Footer() {
                 className="text-dark ms-1"
                 target="_blank"
               >
-                Creative Tim
+                Ivers Shop
               </a>
               .
             </div>
@@ -26,7 +26,7 @@ export default function Footer() {
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
-                  Creative Tim
+                  Ivers Shop
                 </a>
               </li>
               <li className="nav-item">

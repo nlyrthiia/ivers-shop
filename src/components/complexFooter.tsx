@@ -27,7 +27,7 @@ export default function ComplexFooter() {
                 className="text-dark"
                 target="_blank"
               >
-                Creative Tim
+                Ivers Shop
               </a>
               .
             </div>
