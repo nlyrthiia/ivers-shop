@@ -160,7 +160,7 @@ export default function ProductOverview({
                   <div className="col-12 col-lg-6 mb-lg-0 mb-4">
                     <img
                       className="w-100 rounded-3"
-                      src="https:/images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
+                      src="https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
                       alt=""
                     />
                   </div>
@@ -190,7 +190,7 @@ export default function ProductOverview({
                   <div className="col-12 col-lg-6 mb-lg-0 mb-4">
                     <img
                       className="w-100 rounded-3"
-                      src="https:/images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
+                      src="https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
                       alt=""
                     />
                   </div>
@@ -220,7 +220,7 @@ export default function ProductOverview({
                   <div className="col-12 col-lg-6 mb-lg-0 mb-4">
                     <img
                       className="w-100 rounded-3"
-                      src="https:/images.unsplash.com/photo-1611849362103-5c99622adf18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
+                      src="https://images.unsplash.com/photo-1611849362103-5c99622adf18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"
                       alt=""
                     />
                   </div>

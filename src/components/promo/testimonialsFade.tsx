@@ -84,7 +84,7 @@ export default function TestimonialsFade({
                   <div className="d-flex align-items-center">
                     <div className="avatar avatar-sm position-relative me-2">
                       <img
-                        src="https:/images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+                        src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
                         className="rounded-circle"
                       />
                     </div>
@@ -108,7 +108,7 @@ export default function TestimonialsFade({
                   <div className="d-flex align-items-center">
                     <div className="avatar avatar-sm position-relative me-2">
                       <img
-                        src="https:/images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+                        src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
                         className="rounded-circle"
                       />
                     </div>
@@ -132,7 +132,7 @@ export default function TestimonialsFade({
                   <div className="d-flex align-items-center">
                     <div className="avatar avatar-sm position-relative me-2">
                       <img
-                        src="https:/images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
+                        src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1760&q=80"
                         className="rounded-circle"
                       />
                     </div>
